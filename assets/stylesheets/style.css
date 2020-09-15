@@ -21,8 +21,6 @@ div.checkbox label {
 }
 
 #issue_badge > li > div {
-  min-width: 210px;
-  max-width: 250px;
   position: absolute;
   display: block;
   top: 20px;
@@ -174,7 +172,7 @@ div.contents_wrapper::-webkit-scrollbar-thumb {
 }
 
 #issue_badge_contents > div.contents_wrapper {
-  width: 220px;
+  width: 18rem;
   overflow-y: auto;
   max-height: 260px;
   padding-bottom: 10px;
